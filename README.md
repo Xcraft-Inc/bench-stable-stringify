@@ -1,13 +1,13 @@
 # Benchmark
 
 - JSON.stringify (unstable)
-- fast-json-stable-stringify
-- fast-stable-stringify
-- faster-stable-stringify
-- fastest-stable-stringify
-- json-stable-stringify
-- safe-stable-stringify
-- fast-safe-stringify
+- fast-json-stable-stringify (2.1.0)
+- fast-stable-stringify (1.0.0)
+- faster-stable-stringify (1.0.0)
+- fastest-stable-stringify (2.0.2)
+- json-stable-stringify (1.2.1)
+- safe-stable-stringify (2.5.0)
+- fast-safe-stringify (2.1.1)
 
 ## Run
 
