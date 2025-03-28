@@ -1,0 +1,48 @@
+{
+  "products": [
+    {
+      "productId": "P123",
+      "name": "Wireless Mouse",
+      "description": "A high-quality wireless mouse with ergonomic design.",
+      "price": 29.99,
+      "category": "Electronics",
+      "stock": 150,
+      "reviews": [
+        {
+          "userId": 1,
+          "rating": 5,
+          "comment": "Great product! Highly recommend."
+        },
+        {
+          "userId": 2,
+          "rating": 4,
+          "comment": "Good, but a bit expensive."
+        }
+      ]
+    },
+    {
+      "productId": "P124",
+      "name": "Laptop Stand",
+      "description": "Adjustable laptop stand for better ergonomics.",
+      "price": 39.99,
+      "category": "Office Supplies",
+      "stock": 200,
+      "reviews": [
+        {
+          "userId": 3,
+          "rating": 5,
+          "comment": "Excellent quality and easy to assemble."
+        }
+      ]
+    },
+    {
+      "productId": "P125",
+      "name": "Noise-Cancelling Headphones",
+      "description": "Premium headphones with active noise cancellation.",
+      "price": 199.99,
+      "category": "Electronics",
+      "stock": 50,
+      "reviews": []
+    }
+  ]
+}

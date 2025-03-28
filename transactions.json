@@ -1,0 +1,36 @@
+{
+  "transactions": [
+    {
+      "transactionId": "T001",
+      "date": "2023-01-01",
+      "amount": 120.5,
+      "type": "debit",
+      "Description": "Grocery shopping",
+      "category": "Food"
+    },
+    {
+      "transactionId": "T002",
+      "date": "2023-01-02",
+      "amount": 50.0,
+      "type": "credit",
+      "Description": "Salary",
+      "category": "Income"
+    },
+    {
+      "transactionId": "T003",
+      "date": "2023-01-03",
+      "amount": 25.75,
+      "type": "debit",
+      "Description": "Coffee shop",
+      "category": "Dining"
+    },
+    {
+      "transactionId": "T004",
+      "date": "2023-01-04",
+      "amount": 150.0,
+      "type": "debit",
+      "Description": "Electricity bill",
+      "category": "Utilities"
+    }
+  ]
+}

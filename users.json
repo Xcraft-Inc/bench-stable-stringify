@@ -1,0 +1,84 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "email": "alice.johnson@example.com",
+      "address": {
+        "street": "123 Main St",
+        "city": "Springfield",
+        "state": "IL",
+        "zip": "62701"
+      },
+      "phoneNumbers": [
+        {
+          "type": "home",
+          "number": "555-1234"
+        },
+        {
+          "type": "work",
+          "number": "555-5678"
+        }
+      ],
+      "orders": [
+        {
+          "orderId": "A1B2C3",
+          "orderDate": "2023-01-15",
+          "items": [
+            {
+              "productId": "P123",
+              "quantity": 2,
+              "Price": 19.99
+            },
+            {
+              "productId": "P124",
+              "quantity": 1,
+              "Price": 9.99
+            }
+          ]
+        },
+        {
+          "orderId": "D4E5F6",
+          "orderDate": "2023-02-20",
+          "items": [
+            {
+              "productId": "P125",
+              "quantity": 3,
+              "Price": 29.99
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Bob Smith",
+      "email": "bob.smith@example.com",
+      "address": {
+        "street": "456 Oak Ave",
+        "city": "Metropolis",
+        "state": "NY",
+        "zip": "10001"
+      },
+      "phoneNumbers": [
+        {
+          "type": "home",
+          "number": "555-8765"
+        }
+      ],
+      "orders": [
+        {
+          "orderId": "G7H8I9",
+          "orderDate": "2023-03-10",
+          "items": [
+            {
+              "productId": "P126",
+              "quantity": 1,
+              "Price": 49.99
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
